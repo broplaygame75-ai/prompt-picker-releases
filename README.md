@@ -11,15 +11,15 @@ Windows desktop app for picking and organizing prompts. This repository publishe
 
 Installers are on the [releases](https://github.com/broplaygame75-ai/prompt-picker-releases/releases) page.
 
-- `PromptPicker-Setup-0.1.13.exe` is the installer. Auto-update uses this file and `latest.yml`. Leave those names as they are.
-- `PromptPicker-0.1.13-Windows.zip` contains the installer, the install guide, and the pictures.
+- `PromptPicker-Setup-0.1.14.exe` is the installer. Auto-update uses this file and `latest.yml`. Leave those names as they are.
+- `PromptPicker-0.1.14-Windows.zip` contains the installer, the install guide, and the pictures.
 
-SHA-256 checksums for 0.1.13:
+SHA-256 checksums for 0.1.14:
 
 | File | SHA-256 |
 | --- | --- |
-| `PromptPicker-Setup-0.1.13.exe` | `64fae26958dbcf48d59a51eba3e181c343614892644f0b483ecd2599f6a6ec29` |
-| `PromptPicker-0.1.13-Windows.zip` | `d1c583e72550af5f647c8079f7504d460f3b547d0b88ae355c17b54ed99c5303` |
+| `PromptPicker-Setup-0.1.14.exe` | `81e974b62c8ee925a096508b24815cb9b4937df2074015af234630e0086f2095` |
+| `PromptPicker-0.1.14-Windows.zip` | `4490cdf8fa060c04ce78292c0f6d8a2215b03ee70340737aac00a1072441fadf` |
 
 The same checksums are in the release notes.
 
