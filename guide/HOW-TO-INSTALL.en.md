@@ -1,4 +1,4 @@
-# How to install Prompt Picker 0.1.12
+# How to install Prompt Picker 0.1.13
 
 **18+.** Prompt Picker is for adults. The first launch asks "Are you 18 or older?" Yes continues and is remembered on this PC. No closes the app.
 
@@ -8,7 +8,7 @@ Windows shows "Windows protected your PC" because this app is not code-signed. T
 
 ## 1. Download
 
-Download `PromptPicker-Setup-0.1.12.exe`, or open `PromptPicker-0.1.12-Windows.zip` and run the Setup exe inside it. Leave `latest.yml` on the release page. The installed app uses that file to update itself.
+Download `PromptPicker-Setup-0.1.13.exe`, or open `PromptPicker-0.1.13-Windows.zip` and run the Setup exe inside it. Leave `latest.yml` on the release page. The installed app uses that file to update itself.
 
 ![Download](en/01-download.png)
 
@@ -23,7 +23,7 @@ Open the Setup exe. If Windows says "Windows protected your PC":
 
 ## 3. Install
 
-Follow the installer. When Prompt Picker is already installed, the setup replaces that copy. Prompts stay in `%APPDATA%\Prompt Picker\data`.
+The installer asks where to put Prompt Picker. The suggested folder is `C:\Prompt Picker` when that location can be created, otherwise a Prompt Picker folder in your user profile. The program files go in the folder you choose. A shortcut is added to the Desktop only. A Start Menu shortcut is not created, and an old Start Menu shortcut named Prompt Picker is removed. When Prompt Picker is already installed, the setup replaces that copy. Prompts stay in `%APPDATA%\Prompt Picker\data`.
 
 ![Install](en/03-installer.png)
 
@@ -32,3 +32,25 @@ Follow the installer. When Prompt Picker is already installed, the setup replace
 Confirm you are 18 or older, then pick a prompt.
 
 ![First launch](en/04-first-launch.png)
+
+## 5. Update
+
+An update installs into the folder you already chose. It does not ask for a folder again, and it does not delete prompts or settings.
+
+## 6. Uninstall
+
+Settings > Others has two choices. Windows Settings > Apps shows the same two choices.
+
+**Uninstall, keep data** removes the app, shortcuts, uninstall entries, temporary files, and the updater cache. It keeps your prompts, language, theme, sorts, hints, and every other preference, plus the chosen folder and the desktop shortcut choice. The next install opens with that folder filled in and those options selected, and the app restores the settings. Export a JSON backup first (Settings > Backup & Import) if you want a copy.
+
+**Uninstall and wipe everything** removes the app, the prompts, the settings, the install folder, and the saved install choices. This cannot be undone.
+
+## 7. Contact
+
+Discord is the preferred contact and the fastest reply: https://discord.gg/yH5AAdj5qY
+
+Patreon: https://www.patreon.com/c/linekoaiart447658
+
+X: https://x.com/lyht111222333
+
+Telegram is checked less often: https://t.me/linekoaiart
